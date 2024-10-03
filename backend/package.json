@@ -1,0 +1,6 @@
+{
+    "name": "@tech-test/backend",
+    "scripts": {
+      "dev": "mvn -f pom.xml spring-boot:run"
+    }
+  }
